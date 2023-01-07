@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_Power_Armor14_Pro-user
-add_lunch_combo omni_Power_Armor14_Pro-userdebug
-add_lunch_combo omni_Power_Armor14_Pro-eng
+COMMON_LUNCH_CHOICES omni_Power_Armor14_Pro-user
+COMMON_LUNCH_CHOICES omni_Power_Armor14_Pro-userdebug
+COMMON_LUNCH_CHOICES omni_Power_Armor14_Pro-eng
