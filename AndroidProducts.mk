@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Power_Armor14_Pro.mk
+    $(LOCAL_DIR)/twrp_Power_Armor14_Pro.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Power_Armor14_Pro-user \
-    omni_Power_Armor14_Pro-userdebug \
-    omni_Power_Armor14_Pro-eng
+   twrp_Power_Armor14_Pro-user \
+    twrp_Power_Armor14_Pro-userdebug \
+    twrp_Power_Armor14_Pro-eng
