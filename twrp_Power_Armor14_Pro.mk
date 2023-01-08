@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/ulefone/Power_Armor14_Pro/device.mk)
 
 PRODUCT_DEVICE := Power_Armor14_Pro
-PRODUCT_NAME := omni_Power_Armor14_Pro
+PRODUCT_NAME := twrp_Power_Armor14_Pro
 PRODUCT_BRAND := Ulefone
 PRODUCT_MODEL := Power Armor14 Pro
 PRODUCT_MANUFACTURER := ulefone
