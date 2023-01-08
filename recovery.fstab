@@ -1,4 +1,3 @@
-/system                   ext4     system                                                   flags=display=system;logical;slotselect
 /vendor                   ext4     vendor                                                   flags=display=vendor;logical;slotselect
 /product                  ext4     product                                                  flags=display=product;logical;slotselect
 /metadata                 ext4     /dev/block/platform/bootdevice/by-name/md_udc            flags=display=metadata
